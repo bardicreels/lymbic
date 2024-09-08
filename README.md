@@ -1,4 +1,36 @@
-# .ai
+# lymbic
+
+const brainAIAnalogy = `
+Human Brain System as AI Learning System Analogy
+|
+|-- Central Nervous System
+|   • Coordinates(AllProcesses) ∧ ¬Compute(DirectCalculations)
+|
+|-- Brain
+|   • Manage(OverallFunction) ∧ ¬Store(Data)
+|   |
+|   |-- Cerebrum
+|   |   • Process(HighLevelTasks) ∧ ¬Handle(LowLevelOperations)
+|   |   |
+|   |   |-- Frontal Lobe
+|   |       • HUMAN(DecisionMaking) ∧ ¬Interface(InputOutput)
+|   |       |
+|   |       |-- AI Assistants (e.g., Cursor AI, Claude)
+|   |           • Augment(HumanDecisionMaking) ∧ ¬Replace(HumanJudgment)
+|   |           • Generate(CodeSuggestions) ∧ ¬WriteCompletePrograms
+|   |           • Analyze(Context) ∧ ¬UnderstandFullHumanIntent
+|   |
+|   |-- Hippocampus
+|   |   • Buffer(ShortTermMemory) ∧ ¬Store(LongTermData)
+|   |   |
+|   |   |-- Markdown Files
+|   |       • Organize(TemporaryNotes) ∧ ¬Persist(PermanentKnowledge)
+|   |       • Structure(QuickThoughts) ∧ ¬Formalize(CompleteDocumentation)
+|   |
+|   |-- Basal Ganglia
+|       • Learn(Procedures) ∧ ¬Process(DeclarativeKnowledge)
+`;
+
 
 This folder contains AI-assisted development tools for improving code quality and consistency.
 
